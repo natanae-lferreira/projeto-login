@@ -1,2 +1,2 @@
 # projeto-login
-Feito para o cursi em video por natanael
+Feito para o curso em video por natanael
